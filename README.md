@@ -23,6 +23,7 @@ CanSatのrunback風のローバを作成し，それを遠隔で操作した．
 - 電源：リチウムイオン電池
 - センサ：加速度センサとジャイロセンサ
 - マイコン：ESP32 Wrover-E（データシートと若干違って焦った）
+最終的なセンサは，sensor_list.csv に記載．
 
 ### Software
 最終的な成果物は，technofesta.ino
